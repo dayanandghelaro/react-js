@@ -21,7 +21,7 @@
     {
       "text": "some task",
       "day": "monday",
-      "reminder": true,
+      "reminder": false,
       "id": 4
     }
   ]
