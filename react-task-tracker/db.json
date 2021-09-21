@@ -16,7 +16,7 @@
       "id": 3,
       "text": "Team Discussion",
       "day": "Sep 11, 2021",
-      "reminder": true
+      "reminder": false
     },
     {
       "text": "some task",
